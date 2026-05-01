@@ -1,33 +1,17 @@
-# secrets
 .env
-.env.local
-*.pem
-*.key
-
-# deps
-node_modules/
-.pnpm-store/
-.venv/
-venv/
-__pycache__/
+pycache/
 *.pyc
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-
-# build
-dist/
-build/
-*.tsbuildinfo
-
-# editor / os
-.DS_Store
-.idea/
-.vscode/
-Thumbs.db
-
-# local data / caches the participant may create
-data/index/
-data/embeddings/
-*.sqlite
-*.db
+*.pkl
+*.npy
+corpus/
+data/
+support_issues/support_issues.csv
+support_issues/sample_support_issues.csv
+fix_mismatches.py
+audit.py
+check.py
+final_check.py
+venv/
+.venv/
+*.zip
+node_modules/
