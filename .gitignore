@@ -15,3 +15,11 @@ venv/
 .venv/
 *.zip
 node_modules/
+
+data/
+support_tickets/
+support_issues/
+AGENTS.md
+CLAUDE.md
+evalutation_criteria.md
+problem_statement.md
