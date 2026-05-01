@@ -1,5 +1,5 @@
 # Multi-Domain Support Triage Agent
-> HackerRank Orchestrate Hackathon — May 2026 | Team: Runtime Terror
+> HackerRank Orchestrate Hackathon — May 2026
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Groq](https://img.shields.io/badge/Groq-f55036?style=for-the-badge&logo=groq&logoColor=white)
